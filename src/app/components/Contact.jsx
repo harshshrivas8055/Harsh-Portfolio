@@ -188,7 +188,7 @@ export default function Contact() {
         transition={{ duration: 0.6 }}
       >
         <div className="flex items-center gap-3 mb-8 md:mb-14">
-          <span className="text-blue-500 font-mono text-sm flex-shrink-0">05.</span>
+          <span className="text-blue-500 font-mono text-sm flex-shrink-0">06.</span>
           <h2 className="text-2xl md:text-3xl font-black text-white">Get In Touch</h2>
           <div className="flex-1 h-px bg-gradient-to-r from-slate-700 to-transparent" />
         </div>
