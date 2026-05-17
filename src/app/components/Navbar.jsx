@@ -55,7 +55,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="/_harsh_resume_9.pdf"
+            href="/resume_9.pdf"
             target="_blank"
             className="ml-4 px-4 py-2 text-sm border border-blue-500/40 text-blue-400 hover:bg-blue-500/10 hover:border-blue-400 rounded-lg transition-all duration-200"
           >
